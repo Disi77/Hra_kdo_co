@@ -1,0 +1,50 @@
+{
+  "kdo?": [
+    "Včela",
+    "Pavouk",
+    "Had",
+    "Python",
+    "Počítač",
+    "Procesor"
+  ],
+  "s kým?": [
+    "s Vilíkem",
+    "s mouchou",
+    "s hadicí",
+    "s Ruby",
+    "s kozlem",
+    "s toaletním papírem"
+  ],
+  "co dělali?": [
+    "plavali",
+    "cvičili jógu",
+    "se hádali",
+    "učili PyLadies",
+    "programovali",
+    "tančili"
+  ],
+  "kde?": [
+    "v Tieto Towers",
+    "pod mostem",
+    "na louce",
+    "na Stodolní",
+    "v obchoďáku",
+    "v kině"
+  ],
+  "kdy?": [
+    "každou středu v 5",
+    " každý večer",
+    "příležitostně",
+    "kdykoliv mohli",
+    "když venku pršelo",
+    "když měli čas"
+  ],
+  "proč?": [
+    "protože Ruby forever",
+    "protože Python rule the world",
+    "protože tak to má být",
+    "protože mají strašnou tchýni",
+    "bo Baník p..o",
+    "protože když ji miluješ není co řešit"
+  ]
+}
